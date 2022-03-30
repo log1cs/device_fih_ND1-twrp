@@ -32,7 +32,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := ND1
 PRODUCT_NAME := omni_ND1
-PRODUCT_BRAND := FIH
-PRODUCT_MODEL := FIH-D1C-FIH
-PRODUCT_MANUFACTURER := fih
-PRODUCT_RELEASE_NAME := FIH FIH-D1C-FIH
+PRODUCT_BRAND := HMD Global
+PRODUCT_MODEL := Nokia 5
+PRODUCT_MANUFACTURER := HMD Global
+PRODUCT_RELEASE_NAME := Nokia 5
