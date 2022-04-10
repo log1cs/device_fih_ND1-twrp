@@ -18,3 +18,7 @@
 
 PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/omni_ND1.mk
+
+# Most common lunch choices
+COMMON_LUNCH_CHOICES := \
+	omni_ND1-eng
